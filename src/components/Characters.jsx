@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Character from "./Episode";
+import Character from "./Character";
 
 function Characters() {
   
